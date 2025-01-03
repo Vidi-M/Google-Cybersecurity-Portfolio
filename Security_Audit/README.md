@@ -14,10 +14,21 @@ The IT manager starts by implementing the National Institute of Standards and Te
 Your task is to review the IT manager’s scope, goals, and risk assessment report. Then, perform an internal audit by completing a controls and compliance checklist. 
 
 ## Suporting materials
-[Botium Toys: Scope, goals, and risk assessment report](https://docs.google.com/document/d/1s2u_RuhRAI40JSh-eZHvaFsV1ZMxcNSWXifHDTOsgFc/template/preview#heading=h.evidx83t54sc) //
+[Botium Toys: Scope, goals, and risk assessment report](https://docs.google.com/document/d/1s2u_RuhRAI40JSh-eZHvaFsV1ZMxcNSWXifHDTOsgFc/template/preview#heading=h.evidx83t54sc)
+
+
 [Control Catergories](https://docs.google.com/document/d/1HsIw5HNDbRXzW7pmhPLsK06B7HF-KMifENO_TlccbSU/template/preview)
 
 ## Control and Compliance Checklist
-link
+[Empty Checklist](https://docs.google.com/document/d/10NoXfyE3ZSiHFqiTE0fINL3xdPvTZq0j0VwnFEM0N3g/edit?tab=t.0#heading=h.87tykp1u0l36)
+
+
+[Filled Checklist](https://github.com/Vidi-M/Google-Cybersecurity-Portfolio/blob/908d801228578a9e23babe1e2235f54213c8121c/Security_Audit/Controls%20and%20compliance%20checklist.pdf)
 
 ## Self assessment
+- [ ] I reviewed the scope, goals, and risk assessment report.
+- [ ] I considered risks to Botium Toys’ customers, employees, and/or assets, based on controls and compliance best practices that are or are not currently implemented.
+- [ ] I reviewed the control categories document.
+- [ ] I selected “yes” or “no” for each control listed.
+- [ ] I selected “yes” or “no” for each compliance best practice.
+
