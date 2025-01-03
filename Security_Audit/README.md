@@ -26,9 +26,9 @@ Your task is to review the IT manager’s scope, goals, and risk assessment repo
 [Filled Checklist](https://github.com/Vidi-M/Google-Cybersecurity-Portfolio/blob/908d801228578a9e23babe1e2235f54213c8121c/Security_Audit/Controls%20and%20compliance%20checklist.pdf)
 
 ## Self assessment
-- [ ] I reviewed the scope, goals, and risk assessment report.
-- [ ] I considered risks to Botium Toys’ customers, employees, and/or assets, based on controls and compliance best practices that are or are not currently implemented.
-- [ ] I reviewed the control categories document.
-- [ ] I selected “yes” or “no” for each control listed.
-- [ ] I selected “yes” or “no” for each compliance best practice.
+- [X] Reviewed the scope, goals, and risk assessment report.
+- [X] Considered risks to Botium Toys’ customers, employees, and/or assets, based on controls and compliance best practices that are or are not currently implemented.
+- [X] Reviewed the control categories document.
+- [X] Selected “yes” or “no” for each control listed.
+- [X] Selected “yes” or “no” for each compliance best practice.
 
