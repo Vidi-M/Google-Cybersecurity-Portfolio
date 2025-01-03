@@ -27,7 +27,8 @@ Your task is to review the IT manager’s scope, goals, and risk assessment repo
 
 [Answers](https://docs.google.com/document/d/1QQOXccTxs9g9OGlm56O52nelOuOYZz1NE6LAN_sV5nU/template/preview) 
 
-#### Score: 
+#### _Score: 26/27_
+Reason: Misunderstood the wording of one of the best practices
 
 ## Recommendation
 TODO
