@@ -25,6 +25,10 @@ Your task is to review the IT manager’s scope, goals, and risk assessment repo
 
 [Filled Checklist](https://github.com/Vidi-M/Google-Cybersecurity-Portfolio/blob/908d801228578a9e23babe1e2235f54213c8121c/Security_Audit/Controls%20and%20compliance%20checklist.pdf)
 
+[Answers](https://docs.google.com/document/d/1QQOXccTxs9g9OGlm56O52nelOuOYZz1NE6LAN_sV5nU/template/preview) 
+
+#### Score: 
+
 ## Recommendation
 TODO
 
