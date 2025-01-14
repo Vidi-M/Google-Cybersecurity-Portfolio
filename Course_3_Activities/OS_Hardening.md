@@ -43,9 +43,9 @@ Your job is to document the incident in detail, including identifying the networ
 [How to read the tcpdump log](https://docs.google.com/document/d/1zuVm_KixJqoHxrMefsxG0bi1tB6RYBQsXkPHIWxdRag/template/preview#heading=h.shz1bcdh2tm3)
 
 ## Incident Report
-[Blank](https://docs.google.com/document/d/1bmTZQGiYdJSgwQ08IpXWEUWhnKMVbJ2KZxsheZhzMMs/template/preview?usp=sharing) /
+[Blank](https://docs.google.com/document/d/1bmTZQGiYdJSgwQ08IpXWEUWhnKMVbJ2KZxsheZhzMMs/template/preview?usp=sharing)
 
-[Completed](https://docs.google.com/document/d/136CrQEKHpk-YrOSsmtoG1-2QIRuduLF_tAuswV2t6a4/edit?usp=sharing) /
+[Completed](https://docs.google.com/document/d/136CrQEKHpk-YrOSsmtoG1-2QIRuduLF_tAuswV2t6a4/edit?usp=sharing)
 
 [Answer](https://docs.google.com/document/d/1RddhtXPPCqYn1W3ScfMxP6IR5E3WErgJG6lndJQQFD4/template/preview) 
 
