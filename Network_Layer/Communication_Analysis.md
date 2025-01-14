@@ -32,7 +32,19 @@ In the tcpdump log, you find the following information:
 7. The remaining lines in the log indicate that ICMP packets were sent two more times, but the same delivery error was received both times.
    
 ## Incident Report
-[Blank Incident Report](link) \
-[Completed Incident Report](link) \
-[Example Incident Report](link) \
+[Blank Incident Report](https://docs.google.com/document/d/1hwjSRYalxGd-qyRIXWz8LBVuSAgEq0AHXOF_BB7DdrI/template/preview?usp=sharing) \
+[Completed Incident Report](https://docs.google.com/document/d/1YfBeVcu0BHabKR4Rp3omLd4MCTYoa47Hy5cgyofq6Ds/edit?usp=sharing) \
+[Example Incident Report](https://docs.google.com/document/d/17-l7_zLY9fWiS4lGemxqgbnfSe8KG_OqM_PMfZA_gp4/template/preview)
 
+## Summary of Problem
+The UDP protocol revealed that the message requesting an IP address for the domain "www.yummyrecipesforme.com" did not reach the DNS server. Network analysis showed that the ICMP echo reply returned the error message: "UDP port 53 unreachable." This indicates that port 53, used for DNS services, was not responding because no service was listening on the receiving DNS port.
+
+## Analysis of Problem
+The incident occurred at 13:24:32.192571 (1:24 p.m.). The IT team became aware of the issue when several customers reported being unable to access the client company's website. An IT analyst attempted to access the site to confirm the error, then analyzed the tcpdump logs to identify the problem. Key findings revealed that port 53 was affected and the DNS server was unreachable. The most likely cause was that the DNS server was either down or misconfigured.
+
+## ANSWER
+[Incident Report](https://docs.google.com/document/d/11YIrN6R3fTqw7AWeh_4YCB4QXK8VnO4_CYPSK2MU5xc/edit?usp=sharing) \
+[Explanation](https://docs.google.com/document/d/19kE466MVHdIRk86EOkUFvbepahRIMMIu5lDDgCBkg0E/template/preview#heading=h.rkogpw759h9x)
+
+## Differences
+The report provided by Google offers a more detailed and comprehensive summary of the problem found in the tcpdump log. I didn't focus on the bigger picture and instead went straight to identifying the root cause that the DNS server is not responding, rather than explaining what is happening. The analysis was similar to mine but more concise and well-worded.
