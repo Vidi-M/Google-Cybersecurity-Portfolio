@@ -44,7 +44,17 @@ Your job is to document the incident in detail, including identifying the networ
 
 ## Incident Report
 [Blank](https://docs.google.com/document/d/1bmTZQGiYdJSgwQ08IpXWEUWhnKMVbJ2KZxsheZhzMMs/template/preview?usp=sharing) /
-[Completed]() /
-[Answer]()
+
+[Completed](https://docs.google.com/document/d/136CrQEKHpk-YrOSsmtoG1-2QIRuduLF_tAuswV2t6a4/edit?usp=sharing) /
+
+[Answer](https://docs.google.com/document/d/1RddhtXPPCqYn1W3ScfMxP6IR5E3WErgJG6lndJQQFD4/template/preview) 
+
+[Answer Explanation](https://docs.google.com/document/d/1C8UBKIEFf9HxsrS4Ddji27jbbnLKU1oK2NBW922ylps/template/preview)
 
 ## Difference
+Section 1: My answer provided a more comprehensive view by including DNS and TCP protocols in addition to HTTP. The provided answer focused solely on HTTP, offering a detailed description of the HTTP protocol's involvement in the incident.
+
+Section 2: Both answers provided a thorough documentation of the incident, detailing customer reports, investigation methods, and analysis findings. Our answer was concise, while the provided answer offered more detail on each step of the investigation and analysis process.
+
+Section 3: Our answer focused solely on the effectiveness of 2FA in preventing brute force attacks. The provided answer included multiple recommendation. This happened as the instructions told us to focus on just 1 security measure. 
+![image](https://github.com/user-attachments/assets/3354ddb7-e457-4fe5-bab9-d214e2327fc5)
