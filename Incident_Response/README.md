@@ -41,7 +41,8 @@ As a cybersecurity analyst, you are tasked with using this security event to cre
 [Example Incident Report Analysis](https://docs.google.com/document/d/15yCDbDCOAcJw-LTz2DeCA7UeLRfvsf176T6MA6ku6ok/template/preview?usp=sharing)
 
 ## Incident Report Analysis
-[Report](https://docs.google.com/document/d/1vFgc10d1VQtyFe-PumBV70jEal1n0yIWn8qDquDg0VM/edit?usp=sharing)
+[My Report](https://docs.google.com/document/d/1vFgc10d1VQtyFe-PumBV70jEal1n0yIWn8qDquDg0VM/edit?usp=sharing)
+[Answer Report](https://docs.google.com/document/d/1iPlKsGAVw1usT8JiR_CgGbL6rut783h_RCH-J8PavuA/template/preview?usp=sharing)
 
 ## Self-Assessment
 - [x] Your incident report includes a summary of the incident.
