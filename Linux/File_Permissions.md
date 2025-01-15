@@ -110,4 +110,5 @@ drwx------ 2 researcher2 research_team 4096 Jan 15 02:44 drafts
 ```
 ## Summary
 TODO
+ ALSO TODO -> your document includes details on using chmod to update file permissions. Look at exemplar
 
